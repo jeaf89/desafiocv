@@ -1,0 +1,25 @@
+div { 
+    background-color: rgba(248, 246, 246, 0.514);
+    color: rgb(15, 14, 14);
+    text-align: center;
+}
+
+body,h1{
+    margin: 0%;
+}
+
+h1{
+    color: gray;
+    font-size: 40px;
+
+}
+
+.border-box{
+    border: solid 1px black;
+    padding: 20px;
+    margin: 50px;
+}
+
+img{
+    border: solid 2px black;
+}
